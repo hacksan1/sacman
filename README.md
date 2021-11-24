@@ -5,3 +5,4 @@ open sacu.py  in any python compiler and run.
 input is in specific string format.
 
 sacu_test.py this fie contail the code for unit test.
+note: place both files in same directory or main file.
